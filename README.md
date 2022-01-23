@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Shreyas Ramakrishna! I am a fifth year PhD candidate in the Electrical Engineering and Computer Science department at [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
+
+My research interests include Cyber-Physical Systems, Machine Learning, Artificial Intelligence, and Safety and Risk assessment. You can learn more about my research and projects on my personal website https://www.shreyasramakrishna.com/
+
 <!--
 **Shreyasramakrishna90/Shreyasramakrishna90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
